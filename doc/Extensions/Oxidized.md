@@ -8,7 +8,7 @@ Integrating LibreNMS with [Oxidized](https://github.com/ytti/oxidized-web) bring
   - Automatic addition of devices to Oxidized: Including filtering and grouping to ease credential management
   - Configuration searching (Requires oxidized-web 0.8.0 or newer)
 
-First you will need to [install Oxidized following their documentation](https://github.com/ytti/oxidized#installation).
+First you will need to [install Oxidized following their documentation](https://github.com/ytti/oxidized#installation). In Debian/Ubuntu/Linux Mint distro, a good way to do is trough a tutorial by Coding Packet (https://codingpackets.com/blog/oxidized-getting-started/).
 
 Then you can procede to the LibreNMS Web UI and go to Oxidized Settings in the External Settings section of Global Settings. Enable it and enter the url to your oxidized instance.
 
